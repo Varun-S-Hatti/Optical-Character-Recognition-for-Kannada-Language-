@@ -57,15 +57,36 @@ The following libraries and frameworks are required to run the Kannada OCR syste
 git clone <repository-url>  
 cd Kannada-OCR
 ``` 
-#### 2.Set Up Virtual Environment:**  
+#### 2.Set Up Virtual Environment:
    ```bash
 python -m venv env  
 source env/bin/activate   # For Linux/Mac  
 env\Scripts\activate      # For Windows
  ```
-#### 3.Install dependencies:**  
+#### 3.Install dependencies:
    ```bash
 pip install -r requirements.txt
  ```
-**Set up environment variables:**  
+#### 4.Set up environment variables:  
 - Configure the .env file with necessary keys if required.
+#### 5.Run the application:
+   ```bash
+python app.py
+ ```
+#### 5.Access the application:
+Open http://127.0.0.1:5000 in your browser to use the Kannada OCR system.
+
+ ## How to Use  
+
+* **1. The platform is free and open-source**; no login is required to use the OCR system.  
+* **2. Upload an Image:**  
+   - On the homepage, users can upload an image containing Kannada text.  
+   - The system will process the image and extract the text.  
+* **3. Text Recognition Process:**  
+   - The uploaded image undergoes preprocessing to enhance text clarity.  
+   - The OCR model detects and extracts Kannada text using deep learning techniques.  
+   - The extracted text is displayed on the screen.  
+* **4. Copy or Download Extracted Text:**  
+   - Users can copy the recognized Kannada text for further use.  
+   - Option to download the extracted text for offline access.  
+  ---
