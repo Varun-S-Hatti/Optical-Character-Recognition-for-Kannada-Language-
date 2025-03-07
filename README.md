@@ -90,3 +90,20 @@ Open http://127.0.0.1:5000 in your browser to use the Kannada OCR system.
    - Users can copy the recognized Kannada text for further use.  
    - Option to download the extracted text for offline access.  
   ---
+## Project Structure  
+
+* **Main Directory:** Contains all project files, including datasets, scripts, and the OCR application.  
+* **OCR Application:** Web-based implementation with static files, templates, and API handling.  
+* **Datasets:** Collection of Kannada text images used for training and testing the OCR model.  
+* **Machine Learning:** Scripts for image preprocessing, model training, and text recognition.  
+* **Models:** Trained OCR models stored for inference and further improvements.  
+* **Utils:** Helper functions for text extraction, noise reduction, and image enhancements.  
+ ---
+ ## Results  
+
+* **Text Recognition Accuracy:** Achieved high accuracy in extracting Kannada text from images using deep learning models.  
+* **Image Processing Efficiency:** Noise reduction and preprocessing techniques improved text clarity and recognition rates.  
+* **Model Performance:** Optimized CNN-based OCR model with low character error rate (CER), ensuring reliable recognition.  
+* **User Experience:** Fast text extraction and easy copy/download features enhanced usability.  
+* **Processing Speed:** The system processed and recognized text within seconds, ensuring minimal latency.
+--- 
