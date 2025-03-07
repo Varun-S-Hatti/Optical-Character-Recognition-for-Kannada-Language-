@@ -107,3 +107,7 @@ Open http://127.0.0.1:5000 in your browser to use the Kannada OCR system.
 * **User Experience:** Fast text extraction and easy copy/download features enhanced usability.  
 * **Processing Speed:** The system processed and recognized text within seconds, ensuring minimal latency.
 --- 
+
+## Screenshots  
+
+**1. Homepage:**  "Home page providing an overview and navigation options for the application."
