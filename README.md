@@ -111,3 +111,11 @@ Open http://127.0.0.1:5000 in your browser to use the Kannada OCR system.
 ## Screenshots  
 
 **1. Homepage:**  "Home page providing an overview and navigation options for the application."
+
+![Picture1 home page](https://github.com/user-attachments/assets/799231fd-b009-477f-8f18-ff88f2690eba)
+
+**2.Choosing File:** "Choose File" button allows users to select a file from their device for upload or processing.
+
+**3.Uploaded File:** The "File Uploaded" message confirms that the selected file has been successfully uploaded and is ready for processing.
+
+**4.OutPut Page:** The extracted text page displays the recognized text from the uploaded file.
