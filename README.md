@@ -120,9 +120,36 @@ Open http://127.0.0.1:5000 in your browser to use the Kannada OCR system.
 
 **3.Uploaded File:** The "File Uploaded" message confirms that the selected file has been successfully uploaded and is ready for processing.
 
-![Picture3 file uploaded](https://github.com/Varun-S-Hatti/Optical-Character-Recognition-for-Kannada-Language-/tree/89f7ff68fb6831906472ba3e659e1e6bcca95293/Screenshots)
+![Picture3 file uploaded](https://github.com/Varun-S-Hatti/Optical-Character-Recognition-for-Kannada-Language-/blob/5c77537812b60264d864ace7a79fa62476ee72ed/Screenshots/Picture%203%20file%20uploaded.jpg)
 
 **4.OutPut Page:** The extracted text page displays the recognized text from the uploaded file.
 
 ![Picture4 text extracted](https://github.com/Varun-S-Hatti/Optical-Character-Recognition-for-Kannada-Language-/blob/89f7ff68fb6831906472ba3e659e1e6bcca95293/Screenshots/Picture%204%20extracted%20text.jpg)
 --- 
+
+# Future Enhancements
+
+### 1️⃣ Handwritten Text Recognition
+Implement LSTM-based models to recognize cursive and handwritten text.
+
+### 2️⃣ Multi-Language Support
+Extend OCR to recognize multiple languages like Kannada, Hindi, and English.
+
+### 3️⃣ Improved Image Preprocessing
+Enhance text clarity with noise reduction, binarization, and deskewing.
+
+### 4️⃣ PDF & Document Support
+Extract text from scanned PDFs and support batch processing.
+
+### 5️⃣ Real-time OCR via Webcam/Mobile
+Enable text extraction from live camera feeds on mobile and web.
+
+--- 
+
+# Project Assosiates
+1. Umme Ayman Khan
+2. T M Greeshma
+3. Vaishnavi Shavi
+4. Varun S Hatti
+
+
