@@ -120,4 +120,6 @@ Open http://127.0.0.1:5000 in your browser to use the Kannada OCR system.
 
 **3.Uploaded File:** The "File Uploaded" message confirms that the selected file has been successfully uploaded and is ready for processing.
 
+![Picture2 upload image]()
+
 **4.OutPut Page:** The extracted text page displays the recognized text from the uploaded file.
