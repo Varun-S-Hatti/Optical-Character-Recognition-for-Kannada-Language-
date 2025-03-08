@@ -116,7 +116,7 @@ Open http://127.0.0.1:5000 in your browser to use the Kannada OCR system.
 
 **2.Choosing File:** "Choose File" button allows users to select a file from their device for upload or processing.
 
-
+![Picture2 upload image](https://github.com/Varun-S-Hatti/Optical-Character-Recognition-for-Kannada-Language-/blob/34ad5e9a4851feb2f2d8aff6cca42fda971d64c7/Screenshots/Picture%202%20choosing%20file.jpg)
 
 **3.Uploaded File:** The "File Uploaded" message confirms that the selected file has been successfully uploaded and is ready for processing.
 
